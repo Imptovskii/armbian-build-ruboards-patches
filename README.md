@@ -1,1 +1,1 @@
-# armbian-buld-ruboards-patches
+# armbian-build-ruboards-patches
